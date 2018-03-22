@@ -813,13 +813,13 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 	<!-- //footer -->		
 	<div class="copy-right"> 
 		<div class="container">
-			<p>© 2017 Shopy . All rights reserved | Design by ANKUSH , AVINASH & ABHIMANYU</p>
+			<p>© 2017 Shopy . All rights reserved | Design by Urvashi</p>
 		</div>
 	</div> 
 	<!-- //footer -->		
 	<div class="copy-right"> 
 		<div class="container">
-			<p>© 2017 ShopY . All rights reserved | Design by ANKUSH , AVINASH & ABHIMANYU</p>
+			<p>© 2017 ShopY . All rights reserved | Design by Urvashi</p>
 		</div>
 	</div> 
 	<!-- cart-js -->
